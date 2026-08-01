@@ -1,0 +1,13 @@
+{
+  "name": "claude-builders-bounty",
+  "version": "0.2.0",
+  "private": false,
+  "type": "module",
+  "description": "Small, auditable agent-tool examples for the Claude Builders Bounty board.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "dependencies": {
+    "@trust-graduation/core": "0.1.0-alpha.8"
+  }
+}
